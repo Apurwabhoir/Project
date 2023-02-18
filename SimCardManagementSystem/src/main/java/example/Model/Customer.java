@@ -172,16 +172,7 @@ public class Customer  // Customer class
 		this.status = status;
 	}
 
-//	public SimCard getSimcard() 
-//	{
-//		return simcard;
-//	}
-//
-//	public void setSimcard(SimCard simcard) 
-//	{
-//		this.simcard = simcard;
-//	}
-	
+
 	
 	
 
